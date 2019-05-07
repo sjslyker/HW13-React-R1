@@ -45,3 +45,7 @@
 .card > .remove:hover {
   color: #d50000;
 }
+
+.title {
+  padding-bottom: 50px;
+}
